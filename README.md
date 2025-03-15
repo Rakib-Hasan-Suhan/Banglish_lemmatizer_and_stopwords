@@ -1,2 +1,3 @@
 # Banglish_lemmatizer_and_stopwords
-Banglish Lemmatizer and Stopword for NLP tasks
+Here, I have provided a Romanized Bangla (Banglish) Stopwords and a basic Romanized Bangla Lemmatizer for nlp based tasks. The stopword is the NLTK library stopwords for Bangla which has been converted to Banglish. The word counts for Stopwords in Banglish is higher compare to NLTK Bangla stopwords as we tried to include various variation of the same words for example: 'আমি' could be written in both 'ami' and 'aami'. For the Lemmatizer I am currently providing a basic Banglish lemmatizer that mostly contains verbs but, I will try to add more words in lemmatizer in future.
+
